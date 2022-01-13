@@ -1,16 +1,11 @@
-### Hi there 👋
+README
+Name: Meredith Madill
+Year:4th 
+Major: Computer Science
+Minor: Chinese
 
-<!--
-**mSquared22/mSquared22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am interested in improving my critical thinking and problem solving skills. I believe that is one of the most 
+valuable things about this degree, I have improved little by little each year, and I hope to continue to do so.
+Currently, I am wokring a part time internship alongside my classes. And, I am working on a side project that
+involves some statiscal and machine learning applications. My favorite hobbies are singing, running/lifting,
+and hanging out with friends.
